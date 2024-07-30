@@ -2,6 +2,7 @@
 
 This project was made in Collaboration with Juliana Unger in summer 2024 at Florida Atlantic University
 
+All important Documentation is within the Documents folder. These are the STD , SDD , and SRS which all comply with guidelines set by IEEE.
 
 Social Butterfly is a Python-based tool designed to empower users with the ability to collect, analyze, and derive insights from social media data, specifically from Twitter (X) and Reddit platforms. This project leverages the Tweepy and PRAW libraries for API interactions, providing advanced search capabilities, efficient data collection, sophisticated analysis tools, and customizable report generation.
 
